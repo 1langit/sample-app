@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SuitmediaTest</string>
+    <string name="name">Name</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="check">CHECK</string>
+    <string name="next">NEXT</string>
+    <string name="welcome">Welcome</string>
+    <string name="selected_username">Selected User Name</string>
+    <string name="choose_a_user">Choose a User</string>
+    <string name="email">email@email.com</string>
+    <string name="empty_text">Data not found</string>
+    <string name="retry">Retry</string>
+</resources>

@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SuitmediaTest" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="android:fontFamily">@font/poppins</item>
+    </style>
+
+    <style name="Theme.SuitmediaTest" parent="Base.Theme.SuitmediaTest" />
+
+    <!-- Shape -->
+    <style name="RoundedCorner">
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <!-- Font -->
+    <style name="Font.AppBarTitle" parent="TextAppearance.Material3.TitleMedium">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">18dp</item>
+    </style>
+</resources>
